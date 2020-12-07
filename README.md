@@ -1,7 +1,8 @@
 # Test 
 
-Pour mener ce test à bien, vous recevrez les accès à une machine virtuelle (Ubuntu + Docker préinstallés).
+Pour mener ce test à bien, vous recevrez les accès à une machine virtuelle (2CPU, 4Go RAM, 80 Go Disk, Ubuntu, Docker préinstallé).
 Cette machine virtuelle dispose d'une adresse adresse fixe (**IP-VM** ).
+
 
 ### Ce qui est attendu
 
