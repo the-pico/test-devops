@@ -10,8 +10,8 @@ Cette machine virtuelle dispose d'une adresse adresse fixe (**IP-VM** ).
 - [ ] L'accès à **http://IP-VM/ci** doit permettre de consulter l'interface Gitlab
 - [ ] Build d'un projet Java + Dockerfile 
 - [ ] Build d'un projet NodeJS + Dockerfile
-- [ ] Déploiement en local l'application Java avec un accès en utilisant l'URL **http://IP-VM/apis**
-- [ ] Déploiement en local l'application NodeJS avec un accès en utilisant l'URL **http://IP-VM/app**
+- [ ] Déploiement en local de l'application Java avec un accès en utilisant l'URL **http://IP-VM/apis**
+- [ ] Déploiement en local de l'application NodeJS avec un accès en utilisant l'URL **http://IP-VM/app**
 
 Pour exposer les URLs mentionnées précédemment il est nécessaire de déployer une instance **NGINX**
 
