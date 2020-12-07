@@ -8,6 +8,7 @@ Ce test devrait être finalisé au plus tard le **vendredi 11/12**.
 ### Ce qui est attendu
 
 
+- [ ] *Toutes les installations/configurations* doivent se faire dans le dossier `opt` 
 - [ ] Une installation fonctionnelle de GitLab CI avec un agent local
 - [ ] L'accès à **http://IP-VM/ci** doit permettre de consulter l'interface Gitlab
 - [ ] Build d'un projet Java + Dockerfile 
