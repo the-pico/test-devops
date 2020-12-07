@@ -14,3 +14,5 @@ Cette machine virtuelle dispose d'une adresse **IP_VM** fixe.
 - [ ] Déploiement en local de l'application NodeJS avec un accès en utilisant l'URL **http://IP_VM/app**
 
 Pour exposer les URLs mentionnées précédemment il est nécessaire de déployer une instance **NGINX**
+
+Pour toute question ou demande de clarification, créez une **Issue** pour ouvrir la discussion.
