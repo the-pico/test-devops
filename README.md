@@ -3,6 +3,7 @@
 Pour mener ce test à bien, vous recevrez les accès à une machine virtuelle (2CPU, 4Go RAM, 80 Go Disk, Ubuntu, Docker préinstallé).
 Cette machine virtuelle dispose d'une adresse adresse fixe (**IP-VM**).
 
+Ce test devrait être finalisé au plus tard le **vendredi 11/12**.
 
 ### Ce qui est attendu
 
