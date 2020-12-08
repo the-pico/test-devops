@@ -3,7 +3,7 @@
 Pour mener ce test à bien, vous recevrez les accès à une machine virtuelle (2CPU, 4Go RAM, 80 Go Disk, Ubuntu, Docker préinstallé).
 Cette machine virtuelle dispose d'une adresse adresse fixe (**IP-VM**).
 
-Ce test devrait être finalisé au plus tard le **vendredi 11/12**.
+Ce test devrait être finalisé au plus tard le **lundi 14/12**.
 
 ### Ce qui est attendu
 
@@ -19,3 +19,11 @@ Ce test devrait être finalisé au plus tard le **vendredi 11/12**.
 Pour exposer les URLs mentionnées précédemment il est nécessaire de déployer une instance **NGINX**
 
 Pour toute question ou demande de clarification, créez une **Issue** pour ouvrir la discussion.
+
+
+### Repositories Projet
+
+Les repositories suivants seront disponibles le **mercredi 09/12** pour contenir les codes sources à déployer:
+
+- [ ] https://github.com/soffa-io/sample-backend
+- [ ] https://github.com/soffa-io/sample-frontend
